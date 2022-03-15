@@ -2,7 +2,7 @@
 
 namespace AthenaBridge\Laminas\View\Model;
 
-class ViewModel extends \Laminas\View\Model\FeedModel
+class ViewModel extends \Laminas\View\Model\ViewModel
 {
 
 }
